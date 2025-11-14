@@ -17,7 +17,6 @@ In this tutorial, I'll show you how to set up a Virtual Machine in Azure to inst
 - PHP 7.3.8  
 - MySQL 5.5.62  
 - PHP Manager  
-- URL Rewrite Module  
 - HeidiSQL  
 - osTicket v1.15.8  
 
