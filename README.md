@@ -115,3 +115,16 @@ Connect with root credentials and create a new database that osTicket will use.
 Open the setup page in the browser and finish the installation by entering system and database details.
 </p>
 <br />
+
+
+Finally youll be greeted with this page where you can find the links to either submit tickets or login to see see tickets sum=bmitted.
+<table>
+  <tr>
+    <td><img width="300" height="300" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/719028ec-143c-4e46-96cf-e4184d72909e" /></td>
+    <td><img width="300" height="300" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/4a9f8afa-fcad-41e2-ae56-621fee9067bd" /></td>
+  </tr>
+  <tr>
+    <td><img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/588aa83f-20d2-48a5-9500-37eb091f6f7f" /></td>
+    <td><img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/bf6cc91b-f4ee-4067-baee-707b0efaa509" /></td>
+  </tr>
+</table>
