@@ -117,11 +117,12 @@ Open the setup page in the browser and finish the installation by entering syste
 <br />
 
 
-Finally youll be greeted with this page where you can find the links to either submit tickets or login to see see tickets sum=bmitted.
+<h3>Finally</h3>
+you'll be greeted with this page where you can find the links to either submit tickets or login as admin to see the tickets submitted.
 <table>
   <tr>
-    <td><img width="300" height="300" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/719028ec-143c-4e46-96cf-e4184d72909e" /></td>
-    <td><img width="300" height="300" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/4a9f8afa-fcad-41e2-ae56-621fee9067bd" /></td>
+    <td><img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/719028ec-143c-4e46-96cf-e4184d72909e" /></td>
+    <td><img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/4a9f8afa-fcad-41e2-ae56-621fee9067bd" /></td>
   </tr>
   <tr>
     <td><img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/588aa83f-20d2-48a5-9500-37eb091f6f7f" /></td>
