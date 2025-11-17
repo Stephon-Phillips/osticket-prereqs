@@ -36,7 +36,6 @@ In this tutorial, I'll show you how to set up a Virtual Machine in Azure to inst
 <h2>Installation Steps</h2>
 <h3>1. Deploy and access the Azure VM.</h3>
 <p>
-  
   <img width="80%" height="80%" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/f9ab4ef4-9a14-4034-a817-5797645bc08e" />
 </p>
 <p>
